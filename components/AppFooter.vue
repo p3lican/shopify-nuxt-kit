@@ -3,7 +3,7 @@
     <section class="testimonial">
       <h2>
         "The interplay of flavors between the cheese, meats and fruits is an
-        absolute delight..."
+        absolute delight."
       </h2>
       <p>Paul Hotcakes</p>
     </section>
